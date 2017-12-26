@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Rocket.Chat.Electron.</string>
 	<key>Identifier</key>
-	<string>com.github.krispayne.download.Rocket.Chat.Electron</string>
+	<string>com.github.krispayne.download.Rocket.Chat</string>
 	<key>Input</key>
 	<dict>
 		<key>GITHUB_REPO</key>
