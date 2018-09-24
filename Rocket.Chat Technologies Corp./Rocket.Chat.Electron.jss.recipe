@@ -10,6 +10,7 @@
 	<string>com.github.krispayne.jss.Rocket.Chat.Electron</string>
 	<key>Input</key>
 	<dict>
+		<key>pkg_path</key><string></string>
 		<key>CATEGORY</key>
 		<string>Communications</string>
 		<key>GROUP_NAME</key>
