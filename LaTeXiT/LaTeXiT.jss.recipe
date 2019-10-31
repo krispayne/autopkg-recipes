@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>Created with Recipe Robot v1.0.5 (https://github.com/homebysix/recipe-robot)</string>
+	<string>Created with Recipe Robot v1.1.2 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
 	<string>Downloads the latest version of LaTeXiT and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.krispayne.jss.LaTeXiT</string>
+	<string>com.github.jss-recipes.jss.LaTeXiT</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
-		<string>Editors</string>
+		<string>Productivity</string>
 		<key>GROUP_NAME</key>
-		<string>autopkg-%NAME%</string>
+		<string>%NAME%-update-smart</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>SmartGroupTemplate.xml</string>
 		<key>NAME</key>
@@ -23,7 +23,7 @@
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string></string>
+		<string>LaTeXiT is a small utility that allows you to quickly typeset LaTeX equations, without bothering with file creation, preambles, and so on. The PDF image obtained can then be exported by dragn drop to any application supporting it.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
 	</dict>
