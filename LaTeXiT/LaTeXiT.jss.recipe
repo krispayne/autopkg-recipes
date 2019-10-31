@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of LaTeXiT and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.LaTeXiT</string>
+	<string>com.github.krispayne.jss.LaTeXiT</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
