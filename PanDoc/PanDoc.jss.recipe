@@ -24,6 +24,8 @@
         <string>PolicyTemplate.xml</string>
         <key>SELF_SERVICE_DESCRIPTION</key>
         <string>PanDoc</string>
+				<key>SELF_SERVICE_ICON</key>
+				<string>PanDoc.png</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.6.1</string>
