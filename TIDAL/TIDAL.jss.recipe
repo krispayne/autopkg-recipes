@@ -7,13 +7,13 @@
 	<key>Description</key>
 	<string>Downloads the latest version of TIDAL and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.TIDAL</string>
+	<string>com.github.krispayne.jss.TIDAL</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
 		<string>Productivity</string>
 		<key>GROUP_NAME</key>
-		<string>%NAME%-update-smart</string>
+		<string>autopkg-%NAME%</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>SmartGroupTemplate.xml</string>
 		<key>NAME</key>
