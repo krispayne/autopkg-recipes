@@ -26,6 +26,8 @@
         <string>Rocket Chat Client</string>
         <key>SELF_SERVICE_ICON</key>
         <string>RocketChatClient.png</string>
+        <key>pkg_path</key>
+ 	    <string>%RECIPE_CACHE_DIR%/%NAME%-%version%.pkg</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.6.1</string>
@@ -64,8 +66,6 @@
             </dict>
             <key>Processor</key>
             <string>JSSImporter</string>
-            <key>pkg_path</key>
- 			<string>%RECIPE_CACHE_DIR%/%NAME%-%version%.pkg</string>
         </dict>
     </array>
 </dict>
