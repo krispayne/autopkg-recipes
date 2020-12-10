@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>0.2.0</string>
 	<key>ParentRecipe</key>
-	<string>io.github.apizz-recipes.pkg.Karabiner-Elements</string>
+	<string>com.github.apizz.pkg.Karabiner-Elements</string>
 	<key>Process</key>
 	<array>
 		<dict>
