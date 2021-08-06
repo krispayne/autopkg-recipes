@@ -28,7 +28,7 @@
         <key>ParentRecipeTrustInfo</key>
         <dict>
                 <key>non_core_processors</key>
-        </dict>
+        <dict/>
         <key>parent_recipes</key>
         <dict>
                 <key>com.github.gregneagle.download.SublimeText4</key>
