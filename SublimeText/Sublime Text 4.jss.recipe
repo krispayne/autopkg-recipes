@@ -20,6 +20,8 @@
                 <string>Testing</string>
                 <key>POLICY_TEMPLATE</key>
                 <string>PolicyTemplate.xml</string>
+                <key>OS_REQUIREMENTS</key>
+                <string>10.15.x,10.14.x</string>
                 <key>SELF_SERVICE_DESCRIPTION</key>
                 <string>Sublime Text 4</string>
                 <key>SELF_SERVICE_ICON</key>
