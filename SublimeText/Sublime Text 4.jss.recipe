@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
         <key>Description</key>
-        <string>Recipe description</string>
+        <string>Sublime Text 4</string>
         <key>Identifier</key>
         <string>com.github.krispayne.jss.SublimeText4</string>
         <key>Input</key>
