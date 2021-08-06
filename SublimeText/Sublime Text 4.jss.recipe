@@ -20,6 +20,10 @@
                 <string>Testing</string>
                 <key>POLICY_TEMPLATE</key>
                 <string>PolicyTemplate.xml</string>
+                <key>SELF_SERVICE_DESCRIPTION</key>
+                <string>Sublime Text 4</string>
+                <key>SELF_SERVICE_ICON</key>
+                <string>Sublime Text 4.png</string>
         </dict>
 <key>ParentRecipe</key>
     <string>com.github.gregneagle.pkg.SublimeText4</string>
